@@ -1,0 +1,27 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/cyrinee2004/MERNstack#readme",
+  "bugs": {
+    "url": "https://github.com/cyrinee2004/MERNstack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrinee2004/MERNstack.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
